@@ -2,9 +2,6 @@
 Welcome to my github page, I'll be commiting some pop and just random learning projects in here
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
