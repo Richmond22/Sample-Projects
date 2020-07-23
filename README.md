@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi, I am Richmond Matsama
 
 You can use the [editor on GitHub](https://github.com/Richmond22/Sample-Projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
